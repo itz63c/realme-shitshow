@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.3.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: e3DYChk80EpXs8I/7AfcpYOCw5DAYKQLU2+RdXbTmSI=
+
+Name: classes.dex
+SHA-256-Digest: fBBxxf8lFpQeQjJpIPTnliOfxQsCQvmecw0IgOaT/bo=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: lG80Kx4d0hB/VG1wNYjjqyh40dCVr5DiduEHKxXGnsU=
+
+Name: res/drawable-xhdpi-v4/warning.png
+SHA-256-Digest: isaAgs3WVaqNZ4CKlnTz60whlNq/tGpvoQJnr5dQw7s=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: ng9ykCmnDc68Nz8Gi8VZU2zQ+U0OrlaG5Ddhpg7lTGk=
+
+Name: res/drawable-xxhdpi-v4/warning.png
+SHA-256-Digest: isaAgs3WVaqNZ4CKlnTz60whlNq/tGpvoQJnr5dQw7s=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: 7iX9tPEDrjYldZ3ft97pUSjGCYL6OyzCgG1nTueKqlc=
+
+Name: res/layout/apply.xml
+SHA-256-Digest: XkELMaJwOlXpNyeOOQ+CDi9bfsKaNRor/3mtVK5D3kk=
+
+Name: res/layout/status.xml
+SHA-256-Digest: jkTHFpuKZ21IB47aNoZJqPIoxPfl1Qt8Yp9dUlKkmKk=
+
+Name: res/layout/warning.xml
+SHA-256-Digest: ZzO7stoLXMkQF9XgH0LfutYerCP+hIpahjECfpU9jfM=
+
+Name: resources.arsc
+SHA-256-Digest: 4nwj8RMLKbQs41AXI/aPxQhUCunbGc9n54Bckb+HUjA=
+
